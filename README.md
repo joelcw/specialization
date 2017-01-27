@@ -1,1 +1,1 @@
-# specialization
+# Repository for data on whether/if, and other things we need for our paper on specialization.
